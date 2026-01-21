@@ -11,6 +11,7 @@
 #   - board: nice_nano_v2
 #     shield: reviung41
 #
+# REMEMBER to clean up project
 ---
 include:
   - board: nice_nano_v2
